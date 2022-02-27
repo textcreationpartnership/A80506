@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter, vvritten to Master Stephen Marshall minister. By a gentleman a parishoner of his, desiring satisfaction about the lawfullnesse of this warre. To which is added an ansvver by a vvelvvisher.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80506</idno>
+            <idno type="STC">Wing C6175</idno>
+            <idno type="STC">Thomason E104_20</idno>
+            <idno type="STC">ESTC R13667</idno>
+            <idno type="EEBO-CITATION">99859518</idno>
+            <idno type="PROQUEST">99859518</idno>
+            <idno type="VID">155940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155940)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E104[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter, vvritten to Master Stephen Marshall minister. By a gentleman a parishoner of his, desiring satisfaction about the lawfullnesse of this warre. To which is added an ansvver by a vvelvvisher.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: "A plea for defensive arms" by Stephen Marshall.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "May. 30th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marshall, Stephen, 1594?-1655. --  Plea for defensive arms.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155940:1" rendition="simple:additions"/>
+            <p>A COPY OF A LETTER, VVritten to Maſter STEPHEN MARSHALL Miniſter.</p>
+            <p>By a Gentleman a Pariſhoner of his, deſiring ſatisfaction about the lawfullneſſe of this Warre.</p>
+            <p>To which is added An Anſvver by a vvelvvisher.</p>
+            <p>
+               <add>May. 30<hi rend="sup">th</hi>
+               </add> LONDON, 1643.</p>
+            <pb facs="tcp:155940:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:155940:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Had almoſt fallen into the common complement, and ſaluted you with a profeſſion of my ſorrow, for your long indiſpoſition to bodily health; but calling to mind your own and often inſtructions, that we ought in all things, wholely to ſubmit our ſelves and pleaſures to that better ſeeing Provi<g ref="char:EOLhyphen"/>dence, who out of his infinite wiſd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m works his own ends by his own meanes, and proſecu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es his unlimited and ſecret will, by his own unſearcheable ways; my timerous pen, guided by a tremb<g ref="char:EOLhyphen"/>ling heart, changeth that complement of grief<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for your preſent viſitation, into a diale<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of prayer for your future happines. Every ſicknes is Gods Lecture, and every le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture for our Inſtruction, &amp; every Inſtruction is a ſubject for our humble &amp; ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us Meditatio<g ref="char:cmbAbbrStroke">̄</g>, when heaven is our journeys end, no mater whether, our horſe trot or amble, ſo he h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lds it out, it matte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not, whether the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un ſhine or the Wind blow, ſo our way be right; Proſperity is a pleaſant roade but ſlippery and flattered with ſecurity, is m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re dangerous; Adverſity is leſſe comfortable, but ſweetned with pati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is more ſafe. Sir, I have always accounted you a good horſeman in reſpect of y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur ſelfe, and a truſty guide in reſpect of others; and my ambition h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th been to ke<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p pace, at leaſt to follow you. Both on journeys have aymed at the ſame end and for many miles we have both travelled the ſame way. But ſince theſe Nationall di<g ref="char:EOLhyphen"/>ſtractions and unnaturall diſtempers, wherein the whole Church and State is plunged and puzled, your confidence and my feares have led us into ſeverall pathes<g ref="char:punc">▪</g> inſomuch (to my great griefe I feare) that one of us hath loſt our way, yet give me leave to ſay without offence, you deviate and have loſt that road which for<g ref="char:EOLhyphen"/>merly
+<pb n="2" facs="tcp:155940:3"/> your ſteps have trod, whereby my zealous feares ſtill un<g ref="char:EOLhyphen"/>confident of new ways, intergreets you too bold ſo neare a wil<g ref="char:EOLhyphen"/>derneſſe.</p>
+            <p>You cut down ſtiles, leap ditches, trample hedges, and force a man thorough other mens poſſeſſions: I keep the be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ten track, whereby our late peacefull travellers, without the ſmalleſt dam<g ref="char:EOLhyphen"/>mage, have ſafely, timely and ſweetly, attained their happy jour<g ref="char:EOLhyphen"/>neys end; you by the red Sea, purſue your obvious foes, I by the quiet banks of lordan profecute my calme deſignes; in brief you go the way of bloud, wherein I feare your actions a little too much reliſh of your name, and I the name of peace. True in that bloudy and cloudy time of the Law, God ſtile himſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lfe <hi>the Lord of Hoſts,</hi> you are a Miniſter of that Goſpell, you a Steward of that peace. When the Lord of Peace expired, He left us a graci<g ref="char:EOLhyphen"/>ous Legacy of Peace, you are one of the executors of his laſt will: What is become of this Legacie? we demand, you deny it; we appeale to equity, you to the ſword; <hi>He that ſmiteth by the ſword, ſhall periſh by the ſword:</hi> Our bleſſed Saviour is the Prince of Peace, but where and all his ſubjects? Even making war, and embrueing their hands in bloud. But in the bloud of whom? of Pagans, Turks, Infidels? No, in the bloud of Chriſtians, nay, brethren of the ſame Religion, wherein all relations both Politicall and Oeconomicall, both Civill, Naturall and Chriſtiar, are diſſolved and overwelmed: Sir, you have approved of theſe wars; nay, being a Chaplaine to this Army, have animated our brethren in theſe wars: Men whoſe ignorance have pinned their ſalvation upon your warrant, and whoſe bloud you muſt juſtify in the great account, deale truly with me, what is the occaſion of theſe wars? the voyce cryeth Reformation: Tell me, was ever Reformation made in bloud? the Epidemick voice crieth truth or elſe no Peace: What truth is it, of Doctrine or of Diſciplin? If we want the Truth of Doctrin, <hi>Actum eſt de noſtra Religione,</hi> or is it of Diſci<g ref="char:EOLhyphen"/>pline? Muſt this truth be propagated by the ſword, muſt this Truth be bought with the price of bloud, and perchance with the deſtruction of thoſe ſoules, which the Lord of Peace ſufficiently dyed for.</p>
+            <p>O deare, ô bloudy Truth, without warrant beyond preſident, did the fountain of all mercy, peace and truth require ſuch a truth beyond all merey &amp; peace? Did the Lord of the Sabbath diſpence
+<pb n="3" facs="tcp:155940:3"/> with the breach of a morall Law, the ſtrict obſerving of his Sab<g ref="char:EOLhyphen"/>bath to ſave the life of an Oxe or an Aſſe? And ſhal we prefer the ſudden abrogatio<g ref="char:cmbAbbrStroke">̄</g> of ſome indifferent Ceremonies, before the lives of many thouſand Chriſtians? nay, Ceremonies approved of by holy and learned men, choſen and thought worthy to depoſe their lives in defence of true Religion againſt that Church, whereof theſe our Ceremonies relliſh, Ceremonies eſtabliſhed by that pi<g ref="char:EOLhyphen"/>ous Prince <hi>Edward</hi> the 6, and his religious and pious Counſell in Parl. confirmed by that Illuſtrious and renowned Princeſſe, the Phoenix of her time, our late Q. <hi>Elizabeth;</hi> Ratified by the late learned Defendor of our Faith, K. <hi>James,</hi> of bleſſed memory; the charge whereof (as a holy legacy) he left to our Gracious Sove<g ref="char:EOLhyphen"/>raigne now labouring to execute his will. Are theſe the Ceremo<g ref="char:EOLhyphen"/>nies that chalenge ſo much bloud, or is the ſuddain abrogation of them to be ballanced with the ruine of a Kingdom? Sure the oc<g ref="char:EOLhyphen"/>caſion of this bloudy flux is neither truth of Doctrine nor of Diſ<g ref="char:EOLhyphen"/>cipline? therfore not religion. Or is the cauſe of this unnaturall and civill commotion civil? is the Kings Prerogative too large, or the Subjects Priviledge too narrow? His Majeſties gracious offer is to regulate both by the known Laws of the land; And ha<g ref="char:EOLhyphen"/>ving taken a Spontaneous execration to performe it; for my part I dare not in my heart conceive ſuch evill of the Lords anointed, as once to diſtruſt him.</p>
+            <p>Sir, as one that deſireth, yea preferreth the glory of Almighty God above his life, and the teſtimony of a good Conſcience above a thouſand worlds, I deſire you to ſatisfie me in theſe particulars. And as you ſhall anſwer it before the great Tribunal of the Iudge of Heaven and Earth, when you ſhall give account of all your flock, where of I my ſelf am one: deale plainly, clearely and truly with me, concerning the lawfulneſſe of this war, wherein as I ſhall direct my prayers to Almighty God to direct you, ſo I ſhal require you, that he would be pleaſed to make me capable of your directions, ayming at none other end but Gods glory and my own ſalvation.</p>
+            <epigraph>
+               <q xml:lang="lat">Vincat Veritas,<lb/> Evaneſcat Vanitas.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:155940:4"/>
+            <head>A Speedy Anſwer to the ſaid Letter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Know you will much wonder, by what fate it happened, that your Letter ſhould ſo miſcarry, as to fall into my hands, you pretend it to be written to M. <hi>Stephen Marſhall,</hi> and your ſelf a Pariſhoner of his; but whether true or no, I cannot tell; but I beleeve the contrary, for ſurely had your ingenuity beene ſuch, as became one of his flock, you would rather have firſt con<g ref="char:EOLhyphen"/>ferred with him privately, than to be ſo ambitious of the Preſſe, as to publiſh ſuch a Letter before you had acquainted him. And for my part I cannot be ſo ignorant to conceive, that you ſhould ex<g ref="char:EOLhyphen"/>pect that ſo worthy a Divine would ſo much forget his more ſe<g ref="char:EOLhyphen"/>rious imployments, as to anſwer in publick, ſuch weake objecti<g ref="char:EOLhyphen"/>ons, which muſt needs diſparage his worth and abilities; Yet perhaps you in your fancy much magnifie your own notions, and it is poſſible imagine great matters of this child of your braine<g ref="char:punc">▪</g> ſeeing now that any thing how ſilly ſoever, if it be but bar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly ap<g ref="char:EOLhyphen"/>prehended to favour the Malignants, how it is hugged and recei<g ref="char:EOLhyphen"/>ved, though it be but <hi>an Apology for the Cavaliers,</hi> but leſt you ſhould too much glory in your own conceipt, here is a ſudden re<g ref="char:EOLhyphen"/>ply to your Letter, and if you ſhould happen to diſcover your op<g ref="char:EOLhyphen"/>poſer, you will be as much aſhamed (being ſo confident of your own ſtrength) to be wreſtled with by ſuch a one, as that party will bluſh to be known to be in print, but leaving ſuch comple<g ref="char:EOLhyphen"/>ments, I paſſe over your Preface, being as little to the controver<g ref="char:EOLhyphen"/>ſie as I ſhall find the reſt, you confeſſe, <hi>that both your journeys aymed at the ſame end and for many miles you both travelled the ſame way:</hi> How came you to pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t? was there any Malignant that overtook you, and whiſpered in your eare ſome Court doctrin of the u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>li<g ref="char:EOLhyphen"/>mited power of Princes and unconfind prerogative, was there any ſuch that carried you into another road? You te<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s indeed <hi>that ſince theſe National diſtractions and unnaturall distempe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s wher<g ref="char:EOLhyphen"/>in the whole State is plungea and puzled, his confidence a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d you fears have lead you into ſeverall paths and one of you hath l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt his way.</hi> Theſe diſtractions and unnaturall diſtempers are confeſſed, but it is ex<g ref="char:EOLhyphen"/>pected that you ſhould reſt us who were the firſt cauſers of them, <hi>or wherein M. Marſhall hath loſt that road wherein formerly his ſteps</hi>
+               <pb n="5" facs="tcp:155940:4"/> 
+               <hi>did tread.</hi> I cannot take your bare affirmation, &amp; abate your proofs in a matter of this conſequence, I pray tell us, who firſt diſturb'd our peace? not to ſpeak of the late ſtrange innovations both in Church and State, the occaſion of the difference with our brethren in <hi>Scotland,</hi> the ground of the rebellion in <hi>Ireland;</hi> all theſe are ſuf<g ref="char:EOLhyphen"/>ficiently known, but you think perhaps that we ſhould have yeel<g ref="char:EOLhyphen"/>ded our throats, and made no defence againſt that inundation of Arbitrary power, both in Church and State, that we ſhould have betrayed our Parl. falſified our Oaths &amp; Proteſtations, &amp; though the Law of God and Nature, and the Law of the Kingdome like<g ref="char:EOLhyphen"/>wiſe, do allow us to defend our ſelves, yet we ſhould have wilfully <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ected all theſe; What think you of the <hi>Rochellers,</hi> did they lawfully defend themſelves againſt the French K. or did K. <hi>Charles</hi> do well to aide and aſſiſt them? Yet ſhew me where the Parl. of <hi>France</hi> gave them authority to take up armes, and yet no queſtion they might lawfully do it. And what is all that you have ſaid but <hi>Mutato nomine de te fabula narratur;</hi> For, who more bloudy and cruell than thoſe Malignants, You would ſeem to juſtifie? who more bloudy than thoſe very men, I ſay thoſe Delinquents, who have ſeduced his Sacred Majeſty, &amp; detain him now amongſt the<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are theſe they, who with a Popiſh Army will maintaine the Pro<g ref="char:EOLhyphen"/>teſtant Religion? can our Kingdom be to blinded, that after above 80 years preaching of the Goſpell, we ſhould be ſo ſeduced to be<g ref="char:EOLhyphen"/>lieve this, &amp; that Proteſtants ſhould joyn with Papiſts to deſtroy Proteſtants, and that free borne Subjects ſhould joyne with De<g ref="char:EOLhyphen"/>linquents to deſtroy their Laws and Liberties, and that the meere will and pleaſure of the King ſhould command obedience againſt the Laws of the Kingdom, doth the Parl. require any thing but the being of a Parl. and if the being of a Parl. then ſurely the authority and power of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parliament<g ref="char:punc">▪</g> So that the Kings perſonall abſence or refuſall, cannot diſanull that authority, for he is continually there in his politique capacity; theſe things have been ſufficiently di<g ref="char:EOLhyphen"/>lated upon by the learnedſt and ableſt Pennes. You ſay <hi>M. Mar<g ref="char:EOLhyphen"/>ſhall hath approved of this war,</hi> and he will tell you and ſo will as a<g ref="char:EOLhyphen"/>ble, godly and learned Divines as any in <hi>England,</hi> that this war by authority of Parl. is lawfull; read his learned Letter, a book inti<g ref="char:EOLhyphen"/>tuled <hi>Scripture and Reaſon and thoſe Anſwers to D. Ferne.</hi>
+            </p>
+            <p>When you talk of <hi>Reformation,</hi> is there not need, what our do<g ref="char:EOLhyphen"/>ctrine hath ſuffered by the erroneous expoſitions of the <hi>Arminians</hi>
+               <pb n="6" facs="tcp:155940:5"/> of late is ſufficiently known, if you but read that learned book of M. <hi>Chenel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and how forward ſome were for a reconcilement with the Church of <hi>Rome,</hi> is apparent by the <hi>Venitian</hi> Embaſſadors in<g ref="char:EOLhyphen"/>formation to the State of <hi>Venice,</hi> which you may ſee in that little Tract intituled the Popes Nuntio; You pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceed to the <hi>Ceremonys</hi> and tell us, that they were approved of by holy and learned men, choſen &amp; thought worthy to depoſe their lives, in defence of true Religion againſt that Church, whereof you ſay theſe Ceremonies relliſh, you confeſſe then that theſe Ceremonies reliſh of the P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſh Church, but ſpeake out, dare you ſay that theſe holy &amp; learned men died in defence of theſe Ceremonies, we honor the memory of thoſe holy Martyrs in Q. <hi>Maries</hi> days, and though ſome of them did approve of the Ceremonies, yet others did not, and we can withall diſtinguiſh betwixt time and times. For that pious King <hi>Edward</hi> the 6, and his ſiſter the vertuous Q. <hi>Eliz.</hi> their memories are precious amongſt us, for the firſt he had but a ſhort raign &amp; ſo could not make any perfect Reformation; and for Q. <hi>Eliz.</hi> what Counſellors ſhe was neceſſitated to make uſe of, when ſhe came to the Crown and what power and authority the Biſhopss there were in, is apparently known; K. <hi>James</hi> who ſucceeded her, was, it is confeſt, a moſt learned Prince, and but read his <hi>Baſilicon Doron,</hi> you ſhall find he was no great enemy to the Government of the Church of <hi>Scot.</hi> but Biſhops here did too much flatter him, yet the Archbiſh of <hi>Cant.</hi> was never cordially reſpected by him, thoughby his ſervile fawning on the D. of <hi>Buckingham,</hi> the K. grea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> favorite, he obtained ſome preferment. Your demand <hi>is the K. Prerogative too large or the Sub. liberty too narrow.</hi> The Parl. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath not any ways leſſened his Majeſties juſt Prerogarive, nor the Sub. deſired it, and for their Priviled. they deſire none but what are right; we know his Majeſty hath made many gracious offers, but we know like<g ref="char:EOLhyphen"/>wiſe, that untill his Majeſty forſake thoſe all Counſellors about him, we ſhall ſee but ſmall performance? how many Petitions hath the Parliament ſent him? what diſires of peace? could ever ſubjects be more dutifull, nay? how loath to defend themſelves, and after all this, what ſcandalous papers come out to their defama<g ref="char:EOLhyphen"/>tions, I need not repeat, you know them better than my ſel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; I end, deſir<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng God Almighty to proſper that Army which ſtands moſt ready for the true Proteſtant Religion, the honor of the King and the Laws and Liberties of the Kingdom.</p>
+            <epigraph>
+               <q xml:lang="lat">Vivat Rex,<lb/> Floreat Parliamentum.</q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
